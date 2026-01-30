@@ -1,0 +1,1 @@
+Designed an IoT and AI-based system to optimize shrimp farming by monitoring and regulating water quality in real-time. Integrated camera vision and feed pelletizer to analyze shrimp behavior, size, and health, enabling data-driven, sustainable aquaculture practices. 
